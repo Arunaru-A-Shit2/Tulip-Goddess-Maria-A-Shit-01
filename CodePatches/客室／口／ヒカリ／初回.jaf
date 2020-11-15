@@ -1,0 +1,35 @@
+void ‹qº^Œû^ƒqƒJƒŠ^‰‰ñ()
+{
+	EV("", -2147483648);
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"You heard the name Hikari before?"' A;
+	œ–¼D("”ü÷");
+	'"Hikari? Yeah, I have."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Oh, really?!';
+	' Tell me what you know!"' A;
+	œ–¼D("”ü÷");
+	'"Okay. So first, it\'s super fast.';
+	' It can go from' R;
+	'`Tokyo to Osaka in, like, three hours."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"...Huh?"' A;
+	œ–¼D("”ü÷");
+	'"I think it goes like 220-kilometers per hour.';
+	' Maybe' R;
+	'`even faster now, actually."' A;
+	œ–¼D("”ü÷");
+	'"It\'s nice that they\'ve got food on it, too.';
+	' The' R;
+	'`gyudon\'s really good!"' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Hey, what the hell are you talking about?"' A;
+	œ–¼D("”ü÷");
+	'"Well... the Hikari?"' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Huh?"' A;
+	œ–¼D("”ü÷");
+	'"What?"' A;
+	œ˜gÁ‹();
+	return;
+}

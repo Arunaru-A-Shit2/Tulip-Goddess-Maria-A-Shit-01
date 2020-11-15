@@ -1,0 +1,42 @@
+void “¬‹Zê^ŠÆ^Q‰Á^‚±‚ñ‚²^í“¬‘O()
+{
+	EV("", -2147483648);
+	œ”wŒi("“¬‹Zê", 1000);
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"This\'ll be my practice run before I fight Yulan.';
+	' I\'ll' R;
+	'`see what the #2 is like."' A;
+	œ˜gÁ‹();
+	œ—§‚¿ŠG”wÁ‹(0, true);
+	œƒg‘‚«();
+	'I jumped down from the spectator seats into the' R;
+	'ring.' A;
+	œ–¼D("–");
+	'"Today\'s big fight is about to begin!';
+	' Can \'Green' R;
+	'`Man\' Rance defeat \'Human Tsutenkaku\'' R;
+	'`Congo, the 5-meter behemoth?!"' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"What?! 5-meters?!';
+	' That\'s a monster! That\'s not' R;
+	'`human!"' A;
+	œ–¼D("–");
+	'"Nope, he\'s just a guy blessed with great stature.';
+	'' R;
+	'`He\'s from Helman, he enjoys playing the piano' R;
+	'`in his spare time, and by the way, he\'s got a' R;
+	'`83-cm penis!"' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Ugh... I don\'t believe that, but fine.';
+	' Come at me,' R;
+	'`beanpole!"' A;
+	œ–¼D("–");
+	'"Let the match begiiin!"' A;
+	œ–¼D("––");
+	'"...L-Leave the size of my penis out of it..."' A;
+	œ˜gÁ‹();
+	œ‘S‘ÌƒAƒEƒg();
+	œ‰¹Šy’â~(2000);
+	œƒV[ƒ“I—¹(1300);
+	return;
+}

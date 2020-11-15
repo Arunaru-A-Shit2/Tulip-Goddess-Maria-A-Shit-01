@@ -1,0 +1,25 @@
+void アリスの館／アリス／クリア／汎用()
+{
+	EV("", -2147483648);
+	●音楽(90, -2147483648);
+	●イベント("アリス／アリスの館", 1, 1000);
+	●名札("アリス");
+	'"Alice here. Welcome to Alice\'s Mansion.';
+	' This is' R;
+	'`my friend, Yukichi."' A;
+	●名札("諭吉");
+	'"Caw, caaaw!"' A;
+	●名札("アリス");
+	'"Huh? We\'re outside, so it\'s not a Mansion?"' A;
+	●名札("アリス");
+	'"It\'s fine. You can call a baseball team the Giants,' R;
+	'`but it\'s not like any of them are 10-meters tall."' A;
+	●名札("アリス");
+	'"Just go with the flow."' A;
+	●名札("諭吉");
+	'"...Caw, caw, caw."' A;
+	●名札("アリス");
+	'"Take your time, okay?"' A;
+	●枠消去();
+	return;
+}

@@ -1,0 +1,20 @@
+void 盗賊団／倉庫奥／口／ブリティシュ／二回目()
+{
+	EV("", -2147483648);
+	●名札("ブリティシュ");
+	'"I fought with my comrades... to defeat Demon King' R;
+	'`Gele."' A;
+	●名札("ランス");
+	'"Demon King Gele...? When the hell are you talking' R;
+	'`about?"' A;
+	●名札("ブリティシュ");
+	'"Nikkou, Ho Laga, Chaos, Cafe...';
+	' I miss those' R;
+	'`guys... They were all really incredible.';
+	' I wonder' R;
+	'`if they\'re all dead now..."' A;
+	●名札("ランス");
+	'"Hey... What, you\'re not gonna listen to me?"' A;
+	●枠消去();
+	return;
+}

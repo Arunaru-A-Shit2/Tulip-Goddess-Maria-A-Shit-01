@@ -1,0 +1,25 @@
+void î•ñ‰®^Œû^î•ñ^“Ş”ü()
+{
+	EV("", -2147483648);
+	œ–¼D("ƒAƒC");
+	'"TALK J$.';
+	' Data compiled. Outputting information' R;
+	'`on Nami Horikawa."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Ooh, Miss Nami!';
+	' Gimme! Gimme the info!"' A;
+	œ–¼D("ƒAƒC");
+	'"Special move: Tebasaki Drop.';
+	' Favorite food: Ice' R;
+	'`cream.';
+	' Favorite prime number: 19."' A;
+	œ–¼D("ƒAƒC");
+	'"Favorable to fail many times.';
+	' Favorable to defeat' R;
+	'`champion using a certain method.';
+	' Favorable to' R;
+	'`spend a great deal and defeat her with the same' R;
+	'`method."' A;
+	œ˜gÁ‹();
+	return;
+}

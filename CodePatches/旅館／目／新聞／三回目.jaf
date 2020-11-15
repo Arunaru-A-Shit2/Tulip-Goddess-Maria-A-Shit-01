@@ -1,0 +1,35 @@
+void —·ŠÙ^–Ú^V•·^O‰ñ–Ú()
+{
+	EV("", -2147483648);
+	œƒg‘‚«();
+	'Oh... There\'s a newspaper. Let\'s bone up on' R;
+	'current events.' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"The savvy adventurer spares no effort to gather' R;
+	'`information.';
+	' Let\'s see here..."' A;
+	œƒg‘‚«();
+	œŒø‰Ê‰¹(1020);
+	'Flip...' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"\'Strange Movements in the Monster Realm;' R;
+	'`Monsters Fighting Amongst Themselves\'...?"' A;
+	œƒg‘‚«();
+	'Witnesses claim to have observed strange' R;
+	'occurrences near the Monster Realm in recent' R;
+	'days. Large groups of monsters are fighting and' R;
+	'killing each other, the reports say.' A;
+	œƒg‘‚«();
+	'Some have called these fights organized battles,' R;
+	'and say they witnessed Dark Lords commanding the' R;
+	'monsters. The truth of the matter has yet to be' R;
+	'verified, however...' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Hmm... Monsters killing each other, huh?"' A;
+	œƒg‘‚«();
+	'Doesn\'t sound all that weird to me.';
+	' Monsters are' R;
+	'all stupid, after all.' A;
+	œ˜gÁ‹();
+	return;
+}

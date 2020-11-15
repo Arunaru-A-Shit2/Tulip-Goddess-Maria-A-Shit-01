@@ -1,0 +1,34 @@
+void •Ší‰®^è^’I^‰‰ñ()
+{
+	EV("", -2147483648);
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"What\'s under the display case here?"' A;
+	œŒø‰Ê‰¹(1063);
+	œƒg‘‚«();
+	'I knelt down and pulled out the glass drawer.' A;
+	œ–¼D("ƒ~ƒŠ[");
+	'"Ah..."' A;
+	œ˜gÁ‹();
+	œ—§‚¿ŠG”wƒ‚(1);
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"What have we got here...';
+	' Whoa, what is this?!"' A;
+	œ–¼D("–");
+	'"Hani, hani, hanihanihani..."' A;
+	œƒg‘‚«();
+	'Inside were mini hannies in all colors, stacked' R;
+	'precariously on top of one another.' A;
+	œ–¼D("ƒ~ƒŠ[");
+	'"Those are mini hanny bombs.';
+	' If they fall,' R;
+	'`they\'ll probably all go off together and' R;
+	'`annihilate everything in a 20-meter radius..."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"D-Don\'t pile them up so haphazardly!"' A;
+	œŒø‰Ê‰¹(1063);
+	œƒg‘‚«();
+	'I closed the drawer carefully, so the display case' R;
+	'didn\'t move.' A;
+	œ˜gÁ‹();
+	return;
+}

@@ -1,0 +1,42 @@
+void —·ŠÙ^–Ú^V•·^“ñ‰ñ–Ú()
+{
+	EV("", -2147483648);
+	œƒg‘‚«();
+	'Oh... There\'s a newspaper. Let\'s bone up on' R;
+	'current events.' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"The savvy adventurer spares no effort to gather' R;
+	'`information.';
+	' Let\'s see here..."' A;
+	œƒg‘‚«();
+	œŒø‰Ê‰¹(1020);
+	'Flip...' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Hm?';
+	' \'Notice of Era Update\'...?"' A;
+	œƒg‘‚«();
+	'As I\'m sure we\'re all aware, there\'s been an' R;
+	'official notice from the Alicist Church that the era' R;
+	'changes this year from GI to LP, with this year' R;
+	'being LP 1.' A;
+	œƒg‘‚«();
+	'For the rest of the year, both era designations will' R;
+	'be used together, but beginning next year, no' R;
+	'official writing dated in the GI era will be accepted.' R;
+	'Please be aware of this going forward...' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Oh yeah, the era did change, didn\'t it...?"' A;
+	œƒg‘‚«();
+	'I have Sill take care of all my paperwork, so I never' R;
+	'really need to worry about it, but it\'s still kind of a' R;
+	'pain.' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Why\'s it change, again...?';
+	' Something about the' R;
+	'`Demon King changing or something...?"' A;
+	œƒg‘‚«();
+	'...I forget.';
+	' Well, not that it matters.' A;
+	œ˜gÁ‹();
+	return;
+}

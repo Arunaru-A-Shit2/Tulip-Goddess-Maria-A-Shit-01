@@ -1,0 +1,24 @@
+void î•ñ‰®^ŠÆ^ƒAƒC()
+{
+	EV("", -2147483648);
+	œƒg‘‚«();
+	'I rubbed the suit of armor in front of me.' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Can\'t believe you can\'t take it off.';
+	' I\'ve gotta' R;
+	'`come up with a way for us to do it like this,' R;
+	'`then..."' A;
+	œ˜gÁ‹();
+	œ—§‚¿ŠG”wÁ‹(0, false);
+	œƒg‘‚«();
+	'I painstakingly searched the armor for any hole I' R;
+	'could use.' A;
+	œ—§‚¿ŠG”w("ƒ‰ƒ“ƒX^Šî–{", 0, true);
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"...There\'s like a 3-cm air hole here, but I\'m' R;
+	'`not getting in there..."' A;
+	œƒg‘‚«();
+	'Every so often, I\'m forced to rue my trenta size...' A;
+	œ˜gÁ‹();
+	return;
+}

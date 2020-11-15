@@ -1,0 +1,34 @@
+void ‹qº^Œû^˜b‚·^‰‰ñ()
+{
+	EV("", -2147483648);
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Where are you from, Miki?"' A;
+	œ–¼D("”ü÷");
+	'"Where\'s it sound like I\'m from? Japan."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Japan? Uhhh... Oh, you mean JAPAN?"' A;
+	œ–¼D("”ü÷");
+	'"Yeah, we call it that, too.';
+	' We export lots of cars' R;
+	'`and appliances.';
+	' You know, made in Japan?"' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"...Huh?"' A;
+	œƒg‘‚«();
+	'We\'re speaking the same language, but for some' R;
+	'reason, I\'m really not sure what she\'s talking' R;
+	'about.' A;
+	œ–¼D("”ü÷");
+	'"Yeah, I figured you wouldn\'t get it...';
+	' This is a' R;
+	'`fantasy kinda world, after all..."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"...Do you have one of those diseases of the head' R;
+	'`or something?"' A;
+	œ–¼D("”ü÷");
+	'"I\'m perfectly healthy, thank you very much.';
+	'' R;
+	'`Hmph!"' A;
+	œ˜gÁ‹();
+	return;
+}

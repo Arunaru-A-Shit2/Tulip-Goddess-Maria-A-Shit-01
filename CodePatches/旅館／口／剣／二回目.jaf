@@ -1,0 +1,45 @@
+void —·ŠÙ^Œû^Œ•^“ñ‰ñ–Ú()
+{
+	EV("", -2147483648);
+	œƒg‘‚«();
+	'Oh yeah, wonder how my sword\'s doing?' A;
+	œŒø‰Ê‰¹(1042);
+	œƒg‘‚«();
+	'Clap, clap...' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Hey, Nami!"' A;
+	œ˜gÁ‹();
+	œŒø‰Ê‰¹(1011);
+	œ—§‚¿ŠG("“Ş”ü^Šî–{", 1, true);
+	œ–¼D("“Ş”ü");
+	'"Yes? What is it, Rance-san?"' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"How\'s my sword doing?"' A;
+	œ–¼D("“Ş”ü");
+	'"I performed some maintenance on it, so it\'s' R;
+	'`looking better now."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Oh? That\'s an interesting skill to have."' A;
+	œ–¼D("“Ş”ü");
+	'"I\'m by no means an expert, of course...';
+	' It\'s' R;
+	'`slightly different from a JAPANese sword, but' R;
+	'`it\'s nice when your weapon is taken care of' R;
+	'`properly, isn\'t it?"' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Yeah, I guess so.';
+	' Well, keep taking good care of' R;
+	'`it."' A;
+	œ–¼D("“Ş”ü");
+	'"Of course. Well then..."' A;
+	œ˜gÁ‹();
+	œ—§‚¿ŠGÁ‹(1, true);
+	œŒø‰Ê‰¹(1011);
+	œƒg‘‚«();
+	'Nami smiled and left.' A;
+	œƒg‘‚«();
+	'I\'ll leave the sword with Nami while I\'m here in' R;
+	'Leazas.' A;
+	œ˜gÁ‹();
+	return;
+}

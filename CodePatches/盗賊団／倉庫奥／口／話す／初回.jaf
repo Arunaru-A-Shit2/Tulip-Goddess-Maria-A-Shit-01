@@ -1,0 +1,27 @@
+void 盗賊団／倉庫奥／口／話す／初回()
+{
+	EV("", -2147483648);
+	●名札("ブリティシュ");
+	'"What\'s going on out in the world?"' A;
+	●名札("ランス");
+	'"What\'s going on...? It\'s the same as always.';
+	'' R;
+	'`Helman and Leazas are at each other\'s throats,' R;
+	'`JAPAN\'s at war."' A;
+	●名札("ブリティシュ");
+	'"Helman? Leazas...';
+	' Are those... countries?"' A;
+	●名札("ランス");
+	'"Uh, yeah? What are you saying?"' A;
+	●名札("ブリティシュ");
+	'"What about the Dark Lords? The Demon King?"' A;
+	●名札("ランス");
+	'"Dark Lords? How should I know? I don\'t hang out in' R;
+	'`Dark Lord territory."' A;
+	●名札("ブリティシュ");
+	'"There are no human farms anymore...?"' A;
+	●名札("ランス");
+	'"What?"' A;
+	●枠消去();
+	return;
+}

@@ -1,0 +1,25 @@
+void “‘¯’c^‘å•”‰®^Œû^˜b‚·^‰‰ñ()
+{
+	EV("", -2147483648);
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Are you really a thief?';
+	' That\'s not the build of a' R;
+	'`lock-pick or a burglar."' A;
+	œ˜gÁ‹();
+	œ—§‚¿ŠGƒ‚(1);
+	œ–¼D("ƒ€ƒ‰ƒ‰");
+	'"D-D-D[Don\'t make fun of me!';
+	' My job is to beat' R;
+	'`up adventurers that come here!"' A;
+	œ—§‚¿ŠG”wƒ‚(3);
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Gwah, you\'re loud..."' A;
+	œ–¼D("ƒ€ƒ‰ƒ‰");
+	'"Leader took me in when I came over from JAPAN.';
+	'' R;
+	'`I have a duty to repay him."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"What\'s that supposed to mean...?"' A;
+	œ˜gÁ‹();
+	return;
+}
