@@ -1,0 +1,33 @@
+void •Ší‰®^Œû^“‘¯’c^‰‰ñ()
+{
+	EV("", -2147483648);
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Tell me more about this gang of thieves."' A;
+	œ–¼D("ƒ~ƒŠ[");
+	'"I don\'t know much myself...';
+	' But they sound' R;
+	'`dangerous...';
+	' I\'ve heard they\'re kidnapping' R;
+	'`girls and such..."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Hm...? Forcing girls... What scum... Hm?"' A;
+	œƒg‘‚«();
+	'Girls...';
+	' Maybe they kidnapped Hikari...' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"Where can I find these thieves?"' A;
+	œ–¼D("ƒ~ƒŠ[");
+	'"Dunno..."' A;
+	œƒg‘‚«();
+	'Millie tilted her head.' A;
+	œ–¼D("ƒ~ƒŠ[");
+	'"Mr. Bobza at the bar might know...';
+	' His daughter' R;
+	'`was one of the girls who was taken."' A;
+	œƒg‘‚«();
+	'The bar... Alright, I\'ll head there next.';
+	' Should\'ve' R;
+	'known I\'d find a clue this easy.' A;
+	œ˜gÁ‹();
+	return;
+}
