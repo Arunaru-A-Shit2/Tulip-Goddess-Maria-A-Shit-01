@@ -1,0 +1,20 @@
+void î•ñ‰®^Œû^î•ñ^ƒnƒCƒW()
+{
+	EV("", -2147483648);
+	œ–¼D("ƒAƒC");
+	'"TALK J$.';
+	' Data compiled. Outputting information' R;
+	'`on Heidi Pankrau."' A;
+	œ–¼D("ƒAƒC");
+	'"Favorite food: Bread.';
+	' Special dish: Chilled stew.';
+	'' R;
+	'`Slices of bread eaten today: 17."' A;
+	œ–¼D("ƒAƒC");
+	'"Favorable to visit again after theft incident has' R;
+	'`been resolved."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"That one was short."' A;
+	œ˜gÁ‹();
+	return;
+}

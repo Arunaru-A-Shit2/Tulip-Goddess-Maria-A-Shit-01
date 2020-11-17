@@ -1,0 +1,22 @@
+void î•ñ‰®^Œû^î•ñ^ƒNƒŠƒ“()
+{
+	EV("", -2147483648);
+	œ–¼D("ƒAƒC");
+	'"TALK J$.';
+	' Data compiled. Outputting information' R;
+	'`on Klean Bew."' A;
+	œ–¼D("ƒAƒC");
+	'"Hobby: Cleaning.';
+	' Special skill: Cleaning.';
+	'' R;
+	'`100-meter dash record: 15 seconds."' A;
+	œ–¼D("ƒ‰ƒ“ƒX");
+	'"She\'s really got nothing on her mind but' R;
+	'`cleaning, huh?"' A;
+	œ–¼D("ƒAƒC");
+	'"Favorable to play the lottery at the weapon shop.';
+	'' R;
+	'`Favorable to bring worthless item to her."' A;
+	œ˜gÁ‹();
+	return;
+}
